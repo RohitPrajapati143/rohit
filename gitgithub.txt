@@ -1,0 +1,17 @@
+for a first time need to configure github in our system
+
+1.git config --global user.name "RohitPrajapati143" //user name of github
+2.git config --global user.name "rp4750817@gmail.com" \\ragister email of github
+3.git config --global color.ui auto
+
+//mandatary comments
+
+1.git init
+2.git remote add origin https://github.com/RohitPrajapati143/rohit.git
+
+git pull origin main //insert in this folder from present gitrepo file
+git add .
+git status //check how many file are not commited on github
+git commit -m "commit message"//commit ke liye on github
+git push //for the github push from vs code to github
+
